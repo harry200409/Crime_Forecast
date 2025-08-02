@@ -24,7 +24,7 @@ The system features an **intuitive web interface** built with **Flask** and **Bo
 
 ##  Installation
 
-1️. **Clone the repository**
+ 1️. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/crime-forecast-application.git
 cd crime-forecast-application
